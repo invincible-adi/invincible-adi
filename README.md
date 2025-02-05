@@ -6,7 +6,7 @@ About Me<br>
 I'm a Fresher based in India, specializing in Front-End and MERN Stack Developing. With a background in Full Stack Development Training, I'm dedicated to Full Stack Developer.
 <br><br>
 What You'll Find Here =><br><br>
-Projects: Explore my repositories to find projects related to Django Developer, Full Stack Developer.<br>
+Projects: Explore my repositories to find projects related to Django Developer and MERN Stack Developer, Full Stack Developer.<br>
 Contributions: Check out my contributions to open-source projects and collaborations.<br>
 Skills: Discover my skills in HTML5, CSS3, Bootstrap5, Javascript, Jquery, Python, C, MSSql, etc.<br>
 Experience: Learn about my professional background and experiences.<br>
