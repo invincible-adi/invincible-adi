@@ -1,18 +1,31 @@
+# Hi there! 👋 I'm Aditya Kumar Gautam
 
-Hi there! 👋<br>
-I'm Aditya Kumar Gautam, a Software Developer passionate about web developing, desigining. Welcome to my GitHub profile!
-<br><br>
-About Me<br>
-I'm a Fresher based in India, specializing in Front-End and MERN Stack Developing. With a background in Full Stack Development Training, I'm dedicated to Full Stack Developer.
-<br><br>
-What You'll Find Here =><br><br>
-Projects: Explore my repositories to find projects related to Django Developer and MERN Stack Developer, Full Stack Developer.<br>
-Contributions: Check out my contributions to open-source projects and collaborations.<br>
-Skills: Discover my skills in HTML5, CSS3, Bootstrap5, Javascript, Jquery, Python, C, MSSql, etc.<br>
-Experience: Learn about my professional background and experiences.<br>
-Get in Touch<br>
-📧 Email: [akg271204@gmail.com]<br>
-💼 LinkedIn: [linkedin.com/in/aditya-kumar-gautam-a43459255]<br>
-🌐 Website: [https://portfolio-2-0-b3lf-git-master-invincible-adis-projects.vercel.app/?_vercel_share=kmy3D8ACjiUdivZe5rgnSnrT3HgxIv7u]<br>
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hi! Thanks for visiting.
+An **Associate Software Engineer** passionate about building robust web ecosystems, high-throughput APIs, and programmatic automation systems. I specialize in scaling software engineering velocity by combining full-stack frameworks with production DevOps and cutting-edge AI orchestration tools.
 
+---
+
+### 🚀 Core Production Tech Stack
+* **Frontend Architecture:** React.js, Next.js 15, TypeScript (Strict Mode), Tailwind CSS, Redux, React Query, Zod
+* **Backend Systems & DB:** Node.js, Express.js, Python, FastAPI, PostgreSQL, MongoDB, SQLAlchemy, RESTful APIs
+* **DevOps & Infrastructure:** Docker, Nginx (Reverse Proxy), PM2, SSH & Linux Server Orchestration, GitHub Actions (CI/CD), FFmpeg
+* **AI & Automation:** Prompt Engineering, Autonomous LLM API Integrations, AI IDEs (Cursor,Antigravity),
+
+---
+
+### 🛠️ Featured Live Products
+
+#### 🧰 [Invincible Tools](https://invincible-tools.online) — SaaS Utility Platform
+* Built and shipped a full-featured web architecture hosting **94+ open-source daily developer and data utilities** (file converters, mathematical tools, validators).
+* Engineered using **Next.js 15**, TypeScript strict-mode coverage, Radix UI, and deployed with comprehensive programmatic SEO schemas on Vercel.
+
+#### 🎬 Facts-YT — Autonomous AI Media Pipeline
+* Architected a zero-touch Python automation workflow that leverages **Groq LLM** for script generation, **HuggingFace** for image synthesis, and **Microsoft Edge TTS** for audio voiceovers.
+* Programmed an execution engine with **FFmpeg** to stitch assets into structured media formats, scheduled autonomously via GitHub Actions.
+
+---
+
+### 📬 Get In Touch
+* **Email:** [gautamaditya.dev@gmail.com](mailto:gautamaditya.dev@gmail.com)
+* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/aditya-kumar-gautam-a43459255)
+
+Feel free to explore my repositories or reach out if you want to collaborate on engineering fast, data-intensive web services!
