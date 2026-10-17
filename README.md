@@ -26,6 +26,6 @@ An **Associate Software Engineer** passionate about building robust web ecosyste
 
 ### 📬 Get In Touch
 * **Email:** [gautamaditya.dev@gmail.com](mailto:gautamaditya.dev@gmail.com)
-* **LinkedIn:** [://linkedin.com](www.linkedin.com/in/aditya-kumar-gautam-a43459255)
+* **LinkedIn:** [https://www.linkedin.com/in/aditya-kumar-gautam-a43459255](www.linkedin.com/in/aditya-kumar-gautam-a43459255)
 
 Feel free to explore my repositories or reach out if you want to collaborate on engineering fast, data-intensive web services!
